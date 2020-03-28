@@ -27,3 +27,12 @@ Listings
 There are many listers not adhering to the “One Host, One Home” rule.  
 More than 50% of available listings are Highly available, meaning less locals are able to purchase affordable housing in the area.   
 There are multiple property management companies that list multiple properties on the website.
+
+# Screenshots
+![](Screenshots/Screenshot%20(60).png)
+![](Screenshots/Screenshot%20(61).png)
+![](Screenshots/Screenshot%20(64).png)
+![](Screenshots/Screenshot%20(65).png)
+![](Screenshots/Screenshot%20(66).png) 
+![](Screenshots/Screenshot%20(67).png)
+![](Screenshots/Screenshot%20(68).png)
