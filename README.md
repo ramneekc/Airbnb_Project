@@ -5,6 +5,9 @@ Analysed Airbnb dataset on the San Francisco listings.
 ● San Francisco has seen enormous spikes in rent prices in the last 5 years.  
 ● Neighborhoods such as the Financial District, Bayview, and Russian Hill are seeing rent prices hitting nearly $5,000/month
 
+# Tableau link for additional findings
+```https://public.tableau.com/profile/ramneek2937#!/vizhome/Book1_15858892931090/Sheet1?publish=yes```
+
 # Findings
 Availability:  
 ○ More High Availability Listings than Low Availability Listings  
