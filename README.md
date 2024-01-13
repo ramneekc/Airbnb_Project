@@ -9,27 +9,13 @@ Analysed Airbnb dataset on the San Francisco listings.
 ```https://public.tableau.com/profile/ramneek2937#!/vizhome/Book1_15858892931090/Sheet1?publish=yes```
 
 # Findings
-Availability:  
-○ More High Availability Listings than Low Availability Listings  
-○ Higher Chance of illegal listings, vacant home owners, and displacement of locals 
-
-Hosts  
-○ There are many hosts that hold multiple (>1) properties on Air BnB and property management companies such as Zeus holds high number of listings (248)  
-○ Highest reviewed hosts are not reflected based on affordable pricing  
-
-Price   
-○ Average Prices have fluctuated over the years, but all in all are showing an upward trend   
-○ There was a big drop from 2016 to 2017, and that was due to the implementation of stricter rules on Air BnB from city of SF
-
-Listings   
-○ There are far more listings listed as “Entire Homes” or “Private Rooms” than “Shared Rooms” ■ Shared rooms only take 2% of the total listings   
- * Perhaps this means people don’t like staying with strangers on the road *
- 
- # Conclusion  
- 
-There are many listers not adhering to the “One Host, One Home” rule.  
-More than 50% of available listings are Highly available, meaning less locals are able to purchase affordable housing in the area.   
-There are multiple property management companies that list multiple properties on the website.
+- Conducted a comprehensive analysis of Airbnb's San Francisco listings dataset to understand trends and impacts on the local housing market.
+- Investigated rent price spikes in neighborhoods like the Financial District, Bayview, and Russian Hill, identifying rent prices nearing $5,000/month.
+- Discovered a high ratio of listings with extensive availability, indicating potential illegal listings and displacement of local residents.
+- Identified multiple hosts managing numerous properties, with some like Zeus holding 248 listings, highlighting a potential breach of the "One Host, One Home" rule.
+- Analyzed pricing trends, noting an average price increase over the years and a significant drop post-2016 due to stricter Airbnb regulations by the city.
+- Found a preference for "Entire Homes" or "Private Rooms" over "Shared Rooms" in the listings, comprising 98% of total listings.
+- Concluded that over 50% of listings were highly available, suggesting a negative impact on local affordable housing availability.
 
 # Screenshots
 ![](Screenshots/Screenshot%20(60).png)
